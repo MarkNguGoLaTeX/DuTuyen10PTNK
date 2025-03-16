@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1742135764.88391 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/DuTuyen10PTNK/DuTuyen10PTNK.tex" "DuTuyen10PTNK.pdf" "DuTuyen10PTNK" 1742135769.71937 0
+["pdflatex"] 1742135848.54336 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/DuTuyen10PTNK/DuTuyen10PTNK.tex" "DuTuyen10PTNK.pdf" "DuTuyen10PTNK" 1742135852.64568 0
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738593385 91071 324d1172d69408ba82bb364085701049 ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1738210144 12668 4f02c60b04476e8cea6f98fe95a52c57 ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcsx1200.pk" 1737886273 14220 f7cbaf869fe58df3434303363f895548 ""
@@ -314,12 +314,12 @@
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "DuTuyen10PTNK.aux" 1742135769 1176 cdbc8019e32773c52deaf4d0c482f2fe "pdflatex"
-  "DuTuyen10PTNK.out" 1742135769 1296 de2f75f43185b1fd4c892c71ace7840e "pdflatex"
+  "DuTuyen10PTNK.aux" 1742135852 1176 cdbc8019e32773c52deaf4d0c482f2fe "pdflatex"
+  "DuTuyen10PTNK.out" 1742135852 1296 de2f75f43185b1fd4c892c71ace7840e "pdflatex"
   "DuTuyen10PTNK.tex" 1742047745 2474 34c6fd088cf56ed0f677a0bcd59bfe9c ""
-  "DuTuyen10PTNK.toc" 1742135769 607 a10d7426dde5c75a059ff0542251928d "pdflatex"
+  "DuTuyen10PTNK.toc" 1742135852 607 a10d7426dde5c75a059ff0542251928d "pdflatex"
   "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/DuTuyen10PTNK/DuTuyen10PTNK.tex" 1742047745 2474 34c6fd088cf56ed0f677a0bcd59bfe9c ""
-  "tex/bookcover.tex" 1742135763 1002 85afe182518934617ee26fcceddb7f50 ""
+  "tex/bookcover.tex" 1742135847 1002 55620f8ba33cf7aa16ffb65df46550ae ""
   "tex/preamble.tex" 1742135763 14501 3bfcf49a6eab18f621c2783a824fd3fa ""
   "tex/tisokep-hangdiem.tex" 1742135763 49848 c661c9f7eb6f3432c9e64e8d043f41fb ""
   (generated)
